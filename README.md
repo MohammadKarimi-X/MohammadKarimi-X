@@ -1,4 +1,4 @@
-- 👋 Hi friend, I’m DXXMER /
+- 👋 Hi friend, I’m MamadLxrd /
 - 👀 I’m interested in Web-Development and Network Security /
 - 🌱 I’m currently learning Git/GitHub - JavaScript /
 
